@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/reactPortfolio/static/css/main.bdd47588.css",
-    "main.js": "/reactPortfolio/static/js/main.ba2541a2.js",
-    "static/media/heroImage.png": "/reactPortfolio/static/media/heroImage.067e1043370d19c6ff05.png",
-    "static/media/JavaQuiz.jpg": "/reactPortfolio/static/media/JavaQuiz.acfc8ed45291bf141e26.jpg",
-    "static/media/weatherApp.jpg": "/reactPortfolio/static/media/weatherApp.ee5f69ab6b7e88b4d05c.jpg",
-    "static/media/TG.jpg": "/reactPortfolio/static/media/TG.8dd8129b30b9877f0136.jpg",
-    "static/media/workScheduler.jpg": "/reactPortfolio/static/media/workScheduler.55c551170a0405f2e5c0.jpg",
-    "static/media/graphql.png": "/reactPortfolio/static/media/graphql.fc6b9451733c620ceb86.png",
-    "static/media/noteTaker.jpg": "/reactPortfolio/static/media/noteTaker.d0b2803719cf869a4ed0.jpg",
-    "static/media/PasswordGen.jpg": "/reactPortfolio/static/media/PasswordGen.a85716b9ec97bbfb0236.jpg",
-    "static/media/react.png": "/reactPortfolio/static/media/react.0cf951a69d8e58f83f9d.png",
-    "static/media/nextjs.png": "/reactPortfolio/static/media/nextjs.48ddc8121a0fcb543d64.png",
-    "static/media/github.png": "/reactPortfolio/static/media/github.3b9e32903aa89111875d.png",
-    "static/media/html.png": "/reactPortfolio/static/media/html.2ba4fabc69a89a8f71e6.png",
-    "static/media/tailwind.png": "/reactPortfolio/static/media/tailwind.e47ac876b8d4d0bba47a.png",
-    "static/media/css.png": "/reactPortfolio/static/media/css.69a82c2d9e45c933a9cb.png",
-    "static/media/javascript.png": "/reactPortfolio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
-    "index.html": "/reactPortfolio/index.html",
-    "main.bdd47588.css.map": "/reactPortfolio/static/css/main.bdd47588.css.map",
-    "main.ba2541a2.js.map": "/reactPortfolio/static/js/main.ba2541a2.js.map"
+    "main.css": "/react_Portfolio_updated/static/css/main.bdd47588.css",
+    "main.js": "/react_Portfolio_updated/static/js/main.f64002b2.js",
+    "static/media/heroImage.png": "/react_Portfolio_updated/static/media/heroImage.067e1043370d19c6ff05.png",
+    "static/media/JavaQuiz.jpg": "/react_Portfolio_updated/static/media/JavaQuiz.acfc8ed45291bf141e26.jpg",
+    "static/media/weatherApp.jpg": "/react_Portfolio_updated/static/media/weatherApp.ee5f69ab6b7e88b4d05c.jpg",
+    "static/media/TG.jpg": "/react_Portfolio_updated/static/media/TG.8dd8129b30b9877f0136.jpg",
+    "static/media/workScheduler.jpg": "/react_Portfolio_updated/static/media/workScheduler.55c551170a0405f2e5c0.jpg",
+    "static/media/graphql.png": "/react_Portfolio_updated/static/media/graphql.fc6b9451733c620ceb86.png",
+    "static/media/noteTaker.jpg": "/react_Portfolio_updated/static/media/noteTaker.d0b2803719cf869a4ed0.jpg",
+    "static/media/PasswordGen.jpg": "/react_Portfolio_updated/static/media/PasswordGen.a85716b9ec97bbfb0236.jpg",
+    "static/media/react.png": "/react_Portfolio_updated/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/nextjs.png": "/react_Portfolio_updated/static/media/nextjs.48ddc8121a0fcb543d64.png",
+    "static/media/github.png": "/react_Portfolio_updated/static/media/github.3b9e32903aa89111875d.png",
+    "static/media/html.png": "/react_Portfolio_updated/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/tailwind.png": "/react_Portfolio_updated/static/media/tailwind.e47ac876b8d4d0bba47a.png",
+    "static/media/css.png": "/react_Portfolio_updated/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/javascript.png": "/react_Portfolio_updated/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "index.html": "/react_Portfolio_updated/index.html",
+    "main.bdd47588.css.map": "/react_Portfolio_updated/static/css/main.bdd47588.css.map",
+    "main.f64002b2.js.map": "/react_Portfolio_updated/static/js/main.f64002b2.js.map"
   },
   "entrypoints": [
     "static/css/main.bdd47588.css",
-    "static/js/main.ba2541a2.js"
+    "static/js/main.f64002b2.js"
   ]
 }
